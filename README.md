@@ -1,16 +1,16 @@
-## Hi there 👋
+#  Bem-vindo ao meu mundo digital
 
-<!--
-**marcelordias/marcelordias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Entre cafés e linhas de código, este é um cantinho de boas vibrações.
 
-Here are some ideas to get you started:
+###  Sobre mim
+- Criativo por natureza e entusiasta da simplicidade.
+- Acredito que a programação é também sobre alegria, curiosidade e autenticidade.
+- Bugs? São apenas puzzles prontos a serem resolvidos com um sorriso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> “sharing is caring”
+
+---
+
+Obrigado por visitares!  Que a tua jornada seja leve e alegre.
